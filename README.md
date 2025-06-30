@@ -18,7 +18,7 @@ Sistema desenvolvido em Java para gerenciar cadastro de funcionários, permitind
 - ✅ Cadastro de funcionários com ID único, nome e salário
 - ✅ Validação rigorosa de dados em todos os pontos de entrada
 - ✅ Verificação automática de IDs duplicados
-- ✅ Busca de funcionários por ID
+- ✅ Busca de funcionários por IDs
 - ✅ Aplicação de aumentos salariais por percentual
 - ✅ Listagem formatada de todos os funcionários cadastrados
 
@@ -28,7 +28,7 @@ Sistema desenvolvido em Java para gerenciar cadastro de funcionários, permitind
 - ☕ Programação Orientada a Objetos
 - 🌊 Streams API
 - 📚 ArrayList e manipulação de coleções
-- 🔄 Tratamento de exceções
+- 🔄 Tratamento de exceções 
 
 ## 📖 Como Usar
 
