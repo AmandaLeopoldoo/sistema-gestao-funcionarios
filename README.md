@@ -1,6 +1,5 @@
 # Sistema de Gerenciamento de Funcionários
 
-![Teste](https://img.shields.io/badge/teste-funcionando-brightgreen)
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Java](https://img.shields.io/badge/Java-11+-orange)
@@ -18,7 +17,7 @@ Sistema desenvolvido em Java para gerenciar cadastro de funcionários, permitind
 - ✅ Cadastro de funcionários com ID único, nome e salário
 - ✅ Validação rigorosa de dados em todos os pontos de entrada
 - ✅ Verificação automática de IDs duplicados
-- ✅ Busca de funcionários por IDs
+- ✅ Busca de funcionários por ID
 - ✅ Aplicação de aumentos salariais por percentual
 - ✅ Listagem formatada de todos os funcionários cadastrados
 
