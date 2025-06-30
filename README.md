@@ -1,33 +1,37 @@
 # Sistema de Gerenciamento de Funcionários
 
-Sistema desenvolvido em Java para gerenciar cadastro de funcionários, permitindo adicionar, listar e atualizar salários.
+![Teste](https://img.shields.io/badge/teste-funcionando-brightgreen)
+![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Java](https://img.shields.io/badge/Java-11+-orange)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/AmandaLeopoldo/sistema-gerenciamento-funcionarios)
+![Contribuidores](https://img.shields.io/github/contributors/AmandaLeopoldo/sistema-gerenciamento-funcionarios?color=purple)
+![Issues](https://img.shields.io/github/issues/AmandaLeopoldo/sistema-gerenciamento-funcionarios?color=red)
 
-## Funcionalidades
+## 📋 Descrição
 
-- Cadastro de funcionários com ID único, nome e salário
-- Validação de dados em todos os pontos de entrada
-- Busca de funcionários por ID
-- Aplicação de aumentos salariais por percentual
-- Listagem de todos os funcionários cadastrados
+Sistema desenvolvido em Java para gerenciar cadastro de funcionários, permitindo adicionar, listar e atualizar salários. Este projeto implementa conceitos de programação orientada a objetos, tratamento de exceções e manipulação de coleções.
 
-## Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-- Java 11
-- Programação Orientada a Objetos
-- Streams API
-- ArrayList e manipulação de coleções
+- ✅ Cadastro de funcionários com ID único, nome e salário
+- ✅ Validação rigorosa de dados em todos os pontos de entrada
+- ✅ Verificação automática de IDs duplicados
+- ✅ Busca de funcionários por ID
+- ✅ Aplicação de aumentos salariais por percentual
+- ✅ Listagem formatada de todos os funcionários cadastrados
 
-## Como Usar
+## 🚀 Tecnologias Utilizadas
 
-1. Clone este repositório
-2. Compile os arquivos Java
-3. Execute a classe Program
+- ![Java](https://img.shields.io/badge/Java-11+-orange)
+- ☕ Programação Orientada a Objetos
+- 🌊 Streams API
+- 📚 ArrayList e manipulação de coleções
+- 🔄 Tratamento de exceções
 
-## Estrutura do Projeto
+## 📖 Como Usar
 
-- `entities/Funcionario.java`: Classe modelo que representa um funcionário
-- `application/Program.java`: Classe principal com a lógica de interação com o usuário
-
-## Autor
-
-Amanda Leopoldo - [GitHub](https://github.com/AmandaLeopoldo)
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/AmandaLeopoldo/sistema-gerenciamento-funcionarios.git
