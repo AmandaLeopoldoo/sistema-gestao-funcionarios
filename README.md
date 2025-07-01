@@ -4,9 +4,7 @@
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Java](https://img.shields.io/badge/Java-11+-orange)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/AmandaLeopoldo/sistema-gerenciamento-funcionarios)
-![Contribuidores](https://img.shields.io/github/contributors/AmandaLeopoldo/sistema-gerenciamento-funcionarios?color=purple)
-![Issues](https://img.shields.io/github/issues/AmandaLeopoldo/sistema-gerenciamento-funcionarios?color=red)
+
 
 ## 📋 Descrição
 
